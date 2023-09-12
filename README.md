@@ -1,6 +1,6 @@
 # Tic-Tac-Toe
 
-This repository contains python based interactive Tic-Tac-Toe game.
+This repository contains python based interactive Tic-Tac-Toe game using tkinter, which is a GUI library.
 
 ## Controls
 1. Player X starts the game
